@@ -1,4 +1,4 @@
-# OIBSIP_Python_Task1 - BMI Calculator (Advanced GUI Version)
+# OIBSIP_Python_Task2 - BMI Calculator (Advanced GUI Version)
 
 ## 🚀 Objective
 Develop a graphical BMI (Body Mass Index) Calculator with data storage and visualization capabilities using Python. This tool helps users calculate and track their BMI over time.
